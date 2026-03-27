@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/delhi-photography-studio-website-242572-242587/photography_studio_frontend"
+}

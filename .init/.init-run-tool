@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/delhi-photography-studio-website-242572-242587/photography_studio_frontend"
+}
